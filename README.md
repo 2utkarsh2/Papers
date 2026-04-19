@@ -1,2 +1,2 @@
 # Papers
-This repository contains papers authored by Utkarsh during his academic journey.
+This repository contains Linguistics projects completetd by Utkarsh during his academic journey.
